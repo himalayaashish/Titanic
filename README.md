@@ -1,4 +1,7 @@
 # Titanic 
+
+![alt text](https://github.com/himalayaashish/Titanic/blob/main/titanic.jpg?raw=true)
+
 ### This is the legendary Titanic ML competition
 #### The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
