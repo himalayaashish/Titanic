@@ -3,8 +3,8 @@
 <div align="center"> 🚀 Welcome to my git repo :Titanic:</div>
 
 ### Titanic 
+![GIF Title](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW55NjRvaHMyenoyaW5rcGZpZ3VodDYzcndnZDN3YjF6NzNleWVmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJw4CDbtu0jde/giphy.gif)
 
-![alt text](https://github.com/himalayaashish/Titanic/blob/main/titanic.jpg?raw=true)
 
 #### This is the legendary Titanic ML competition
 ###### The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
