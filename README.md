@@ -48,7 +48,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json)
 ![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white)
 
-**SDLC**
+**SDLC:**
 ![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white)
 
 **Software Engineering:**
